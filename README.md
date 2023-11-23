@@ -39,7 +39,8 @@ and semi-supervised classification. </br>
 
 ## Contact
 Supervisor: Nicolas PASQUIER, University of Côte d'Azur, I3S Laboratory, CNRS, UMR-7172.</br>
-E-mail: pasquier@i3s.unice.fr </br>
+pasquier@i3s.unice.fr </br>
+Data Scientist Intern : Sartaj Hajam , University of Côte d'Azur, I3S Laboratory, CNRS, UMR-7172.</br>
 sartaj-hajam@i3s.unice.fr
 ## Bibliography
 [1] Chen, H., Yin, C., Li, R., Rong, W., Xiong, Z., & David, B. (2020). Enhanced learning resource recommendation
