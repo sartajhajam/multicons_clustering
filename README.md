@@ -36,3 +36,14 @@ nature of the knowledge extracted.</br>
 and semi-supervised classification. </br>
 • Extraction of knowledge patterns by predictive methods: Supervised classification, regression, and deep learning.</br>
 • Implementation and extensions of closed patterns-based analysis methods in R and/or Python. </br>
+
+## Contact
+Supervisor: Nicolas PASQUIER, University of Côte d'Azur, I3S Laboratory, CNRS, UMR-7172.
+E-mail: pasquier@i3s.unice.fr
+## Bibliography
+[1] Chen, H., Yin, C., Li, R., Rong, W., Xiong, Z., & David, B. (2020). Enhanced learning resource recommendation
+based on online learning style model. Tsinghua Science & Technology, 25, 348-356.
+[2] Hlioui, F., Aloui, N., & Gargouri, F. A Withdrawal Prediction Model of At-Risk Learners Based on Behavioural
+Indicators. IJWLTT, 16(2):32-53, 2021.
+[3] Jha, N. I., Ghergulescu, I., & Moldovan, A. N. OULAD MOOC Dropout and Result Prediction using Ensemble,
+Deep Learning and Regression Techniques. CSEDU, 2:154-164, 2019.
